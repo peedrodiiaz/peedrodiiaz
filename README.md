@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pedro, Welcome to me readme</h2>
+<h2 align="left">Hi 👋! My name is Pedro, Welcome!</h2>
 
 ###
 
